@@ -2,7 +2,7 @@
 개방형OS(Operating System-운영체제) PC에 설치 후 서비스 이용이 가능한 Digital Rights Management (디지털 저작권 관리, 이하 DRM) 플레이어 플랫폼.
 
 ## 설계
-- 개방형OS에 사용된 커널 버전(데미안 10.X) 분석
+- 개방형OS에 사용된 커널 버전(데비안 10.X) 분석
 - 개방형OS에 이용 가능한 SEED 128,256bit 암호화 및 복호화 기법 분석
 - 개방형OS에서 사용 가능한 영상 스트리밍 기법 분석
 - 개방형OS에서 동영상 콘텐츠 저작권 관리툴 적용(웹 기반)
@@ -16,7 +16,7 @@
 *&#35;User Os&#35;*<br>Linux debian 4.19.0-5 <br><br>
 *&#35;Web Browser#35;*<br>Chromium based browser <br><br>
 
-## OpenOS 각 데미안 커널 버전
+## OpenOS 각 데비안 커널 버전
 - **Tmax** / 데비안 - 4.19 0-6amd64
 - **Hamonica** / 데비안 -  4.15 0-54-gener
 - **Gooroom** / 데비안 - 4.19 0-8-amd
